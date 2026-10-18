@@ -1,0 +1,7 @@
+algorithm,size,difficulty,seed,puzzle_id,status,repeat,repeats,execution_time_seconds,peak_python_memory_bytes,nodes_expanded,nodes_generated,max_frontier_size,solution_cost
+DFS,7,easy,70097,akari-7-easy-70097,SOLVED,1,3,0.01625157499802299,18440,8,14,8,7
+DFS,7,easy,70097,akari-7-easy-70097,SOLVED,2,3,0.015186130000074627,18496,8,14,8,7
+DFS,7,easy,70097,akari-7-easy-70097,SOLVED,3,3,0.016230989000177942,18272,8,14,8,7
+ASTAR,7,easy,70097,akari-7-easy-70097,SOLVED,1,3,0.16020530799869448,40136,70,92,32,7
+ASTAR,7,easy,70097,akari-7-easy-70097,SOLVED,2,3,0.15379836600186536,37352,70,92,32,7
+ASTAR,7,easy,70097,akari-7-easy-70097,SOLVED,3,3,0.1559817640008987,37352,70,92,32,7
